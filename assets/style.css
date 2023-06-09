@@ -1,0 +1,48 @@
+h1, h2 {
+    color: green;
+    font-size: 20px;
+    margin: 10;
+}
+
+.title {
+    color: red;
+    font-size: 35px;
+}
+.box {
+    
+    border: 2px dashed green;
+    width: 200px;
+    padding: 20px;
+    margin: 10;
+}
+.image {
+    display: flex;
+    justify-content: left;
+    margin: 30px;
+}
+.boxWrapper{
+    display: flex;
+    margin: 10;
+}
+.boxWrapper2 {
+    
+    border: 5px dashed rgb(46, 58, 138);
+    font-size: 35px;
+    width: 200px;
+    padding: 10px;
+    margin: 10;
+}
+.active{
+    color: aqua;
+    font-size: 35px;
+}
+
+button {
+    width: 250px;
+    height: 100px;
+}
+
+.dis {
+    color: red;
+    font-size: 35px;
+}
